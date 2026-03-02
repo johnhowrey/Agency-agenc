@@ -163,10 +163,10 @@ When launching a new product, always consider how it pairs with existing product
 
 | New Product | Bundle With | Bundle Name Idea |
 |-------------|-------------|------------------|
-| Any new item | Subway Map | "The Complete Theatre Nerd" |
 | Oracle Cards | Tote Bag | "Broadway on the Go" |
-| New Mug | Wrapping Paper | "The Gift Set" |
-| Any print | Tote Bag | "Carry the Art" |
+| Map Mug | Tote Bag | "The Complete Theatre Nerd Kit" |
+| Map Mug | Oracle Cards | "Morning Coffee + Daily Oracle" |
+| Any new item | Tote Bag + Oracle | "The Full Broadway Experience" |
 
 ## Common Launch Mistakes to Avoid
 

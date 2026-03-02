@@ -8,8 +8,8 @@
 - **Tagline**: *"This is what happens when a theatre lover is a graphic designer with a love for typography and transit maps."*
 - **Founded**: 2008 (original subway map); Etsy shop and expanded product line followed
 - **Creator**: John Howrey — Design Leader with 20+ years of experience in human-centered product strategy. Former Professor of Graphic Design at SCAD (Savannah College of Art and Design). Previous roles at IBM Design, DigitalOcean, Skeptic, Philographica, and Selbert Perkins Design.
-- **Location**: Savannah, GA
-- **Status**: Relaunching after a period of inactivity
+- **Location**: Palm Springs, CA
+- **Status**: Active through mid-April 2026, then going on hiatus
 
 ## Brand Voice & Personality
 
@@ -63,21 +63,22 @@
 - Buy in bulk for gifts or classroom use
 - Interested in wholesale
 
-## Product Catalog
+## Current Focus Products
 
-### 1. The Broadway Musical History Subway Map (Flagship)
-- **What it is**: A transit-style map where each "subway line" represents a director, choreographer, composer, or lyricist. The "stations" where lines intersect are the shows they collaborated on together.
-- **Origin**: First created in 2008. Revised, expanded, and updated multiple times.
-- **Sizes**: 36x24 inches, 24x18 inches
-- **Also available as**: Jigsaw puzzle (200, 500, 1000 pieces via Society6)
-- **Dedicated site**: musicaltheatrehistory.com
+> **Active selling window**: Now through mid-April 2026. These three product lines are the focus for this period.
+
+### 1. Broadway Tote Bags (Top Seller)
+- **Sizes**: Tiny, Regular, XL
+- **Design**: Features the Broadway Musical History Subway Map
+- **XL feature**: Extra-long handle for crossbody use
+- **Use cases**: Groceries, sheet music, books, lunch (Tiny), toiletries (Tiny)
+- **Price**: ~$36 with free shipping
+- **Etsy rating**: 5/5 stars, 300+ reviews
 - **Key selling points**:
-  - Genuinely one-of-a-kind — nothing else like it exists
-  - Reveals surprising connections (the choreographer of *Hamilton* also did *9 to 5*)
-  - Hours of discovery — "name all of Sondheim's directorial collaborators"
-  - Beautiful enough to frame, detailed enough to study
-  - Great gift for the person who "has everything"
-- **Price range**: ~$25-40 (poster), varies for puzzles
+  - Proven bestseller with the strongest review history
+  - Practical + beautiful — people use these daily
+  - Three sizes for different needs
+  - The map design is a conversation starter everywhere you go
 
 ### 2. The Broadway Oracle
 - **What it is**: A deck of 100 Broadway lyric oracle cards
@@ -91,33 +92,34 @@
   - 100 cards means lots of variety and replay value
   - Works for die-hard fans AND casual theatre-goers
 
-### 3. Broadway Tote Bags
-- **Sizes**: Tiny, Regular, XL
-- **Design**: Features the Broadway Musical History Subway Map
-- **XL feature**: Extra-long handle for crossbody use
-- **Use cases**: Groceries, sheet music, books, lunch (Tiny), toiletries (Tiny)
-- **Price**: ~$36 with free shipping
-- **Etsy rating**: 5/5 stars, 300+ reviews
-
-### 4. Vintage Style Broadway Wrapping Paper
-- **Size**: 24x36 inches per sheet (larger than most Etsy wrapping paper)
-- **Paper**: 40# brown kraft paper for vintage aesthetic
-- **Design**: Collaged from real ads from Broadway shows
-- **Quantity**: 4 sheets per order
-- **Packaging**: Rolled in a tube (not folded)
-- **Options**: Multiple colors, "Golden Rainbow Coat of Many Colors Edition" (random color selection, or request specific colors in order notes)
-- **Custom**: Accepts custom wrapping paper ideas
-- **Price**: ~$8 with free shipping
-
-### 5. The Sondheim Line Mug
+### 3. The Broadway Map Mug
 - **Size**: 15oz (slightly bigger than standard — customers love this)
-- **Design**: Features the Sondheim line from the subway map
-- **Etsy favorites**: 171
+- **Design**: Features the full Broadway Musical History Subway Map
 - **Customer feedback**: "Beautiful and packaged very securely"
+- **Key selling points**:
+  - Perfect daily-use item for theatre lovers
+  - The map design works beautifully at mug scale — tiny details to discover
+  - Great impulse-buy / add-on to a tote bag order
 
-### 6. Additional Mugs
-- Various Broadway-themed designs
-- 15oz size
+## Other Products (Not Currently Active Focus)
+
+> These products exist in the catalog but are not the priority for the current selling window. They may return after hiatus.
+
+### The Broadway Musical History Subway Map (Poster)
+- Transit-style map where each "subway line" represents a director, choreographer, composer, or lyricist
+- First created in 2008, revised and updated multiple times
+- Sizes: 36x24 inches, 24x18 inches
+- Also available as jigsaw puzzle (200, 500, 1000 pieces via Society6)
+- Dedicated site: musicaltheatrehistory.com
+
+### Vintage Style Broadway Wrapping Paper
+- 24x36 inches per sheet on 40# brown kraft paper
+- Collaged from real Broadway show ads
+- 4 sheets per order, rolled in a tube
+
+### The Sondheim Line Mug
+- 15oz mug featuring the Sondheim line from the subway map
+- 171 Etsy favorites
 
 ## Sales Channels
 
@@ -136,7 +138,7 @@
 - **Reviews**: 300+ across products
 - **Shipping**: Free on most items
 - **Prep time**: 1-2 weeks
-- **Ships from**: Savannah, GA
+- **Ships from**: Palm Springs, CA
 - **Response time**: Usually within 24 hours
 
 ## Competitive Advantages
@@ -157,7 +159,7 @@
 - **Show opening nights** — Opportunities for timely content
 - **World Theatre Day** (March 27)
 - **National Theatre Day** (varies)
-- **Sondheim's birthday** (March 22) — Given the Sondheim mug, this is our holiday
+- **Sondheim's birthday** (March 22) — Great community engagement moment
 - **Valentine's Day** — "For the love of your life... and theatre"
 
 ## Brand Assets

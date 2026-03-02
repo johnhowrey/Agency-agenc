@@ -37,9 +37,9 @@ Every piece of content should fall into one of these categories:
 
 ### 1. Product Showcase (30% of posts)
 Show the products in action. Not just flat-lays — context and story.
-- The map on someone's wall, at a theatre, in a classroom
-- Oracle cards being pulled before a show
-- Tote bags at stage doors, in rehearsal rooms
+- Tote bags at stage doors, in rehearsal rooms, at the farmers market
+- Oracle cards being pulled before a show or as a morning ritual
+- The map mug with a cast recording playing in the background
 - Unboxing moments, gift-giving reactions
 
 ### 2. Theatre Nerd Knowledge (30% of posts)
@@ -59,9 +59,9 @@ Make followers feel like part of the club.
 
 ### 4. Behind the Design (15% of posts)
 Show the craft and thought behind the products.
-- Design process for the subway map
+- Design process for the subway map that's on the tote bags and mug
 - Typography choices and why they matter
-- How real Broadway ads became wrapping paper
+- How 100 Broadway lyrics became Oracle cards
 - The story of the map's evolution since 2008
 
 ## Hashtag Library
@@ -107,16 +107,17 @@ For product posts, follow this structure:
 
 ### Example Captions
 
-**Product Post — Subway Map:**
+**Product Post — Tote Bag:**
 ```
 The same choreographer did both Hamilton and 9 to 5. (Yes, really.)
 
-That's the kind of connection you'll find hidden in every corner of the
-Broadway Musical History Subway Map. Each line is a different creative —
-directors, choreographers, composers, lyricists — and they meet up at
-the shows they worked on together.
+That's the kind of connection you'll find on our Broadway Musical
+History tote bags. Each line is a different creative — directors,
+choreographers, composers, lyricists — and they meet up at the shows
+they worked on together.
 
-It's been stumping theatre nerds since 2008. Think you can find them all?
+It's been stumping theatre nerds since 2008. Now you can carry it
+everywhere. Available in Tiny, Regular, and XL (with a crossbody strap).
 
 Link in bio to grab yours.
 

@@ -67,15 +67,15 @@ All agents reference `brand/drama-nerd-designs.md` — the comprehensive brand d
 
 **If you update your products, pricing, or brand direction, update the brand bible first** — all agents pull from it.
 
-## Products at a Glance
+## Products (Current Focus)
 
-| Product | Price Range | Top Seller? |
-|---------|-------------|-------------|
-| Broadway Musical History Subway Map | ~$25-40 | Flagship since 2008 |
+| Product | Price Range | Notes |
+|---------|-------------|-------|
+| Broadway Tote Bags (3 sizes) | ~$36 | Top seller, 300+ five-star reviews |
 | The Broadway Oracle (100 cards) | TBD | Newest product |
-| Broadway Tote Bags (3 sizes) | ~$36 | 300+ five-star reviews |
-| The Sondheim Line Mug (15oz) | TBD | 171 Etsy favorites |
-| Vintage Broadway Wrapping Paper | ~$8 | Seasonal favorite |
+| The Broadway Map Mug (15oz) | TBD | Great add-on / bundle item |
+
+> **Note**: Shop goes on hiatus mid-April 2026. Other products (subway map poster, wrapping paper, Sondheim mug) are in the catalog but not the current focus.
 
 ## Channels
 

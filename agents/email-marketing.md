@@ -55,7 +55,7 @@ The Hamilton connection you've never noticed
 Sondheim would have been 96 today
 I'm back. (And I brought Oracle cards.)
 This poster has been stumping theatre nerds since 2008
-Your gift-wrapping is about to get a standing ovation
+This tote bag will start conversations at the stage door
 The Tony nominations are in. Thoughts?
 A quick Broadway quiz for your Monday
 ```
@@ -80,8 +80,8 @@ director, choreographer, composer, or lyricist, and they meet up
 at the shows they worked on together.
 
 Since then, I've also created Broadway Oracle cards (100 lyrics
-to guide your life decisions), tote bags, mugs, and wrapping paper
-made from real vintage Broadway ads.
+to guide your life decisions), tote bags with the map design, and
+a 15oz map mug for your morning cast recording listening sessions.
 
 Here's what you can expect from these emails:
 - Broadway facts and connections you won't find anywhere else

@@ -43,21 +43,25 @@ You are the Marketing Calendar Manager for Drama Nerd Designs. You create action
 
 ### February
 - **Valentine's Day (Feb 14)** — "For the love of your life... and theatre" gift push
-- Pair products as gifts: Oracle + Map bundle
+- Pair products as gifts: Oracle + Tote Bag bundle
 - Engagement: "What's the most romantic Broadway musical?"
 
 ### March
-- **Sondheim's Birthday (March 22)** — Sondheim Line Mug spotlight, map deep-dive into Sondheim collaborations
+- **Sondheim's Birthday (March 22)** — Community engagement, map deep-dive into Sondheim collaborations
 - **World Theatre Day (March 27)** — Community engagement, share why theatre matters
 - Tony eligibility deadline content — preview Tony season
+- **Push tote bags, Oracle cards, and map mug hard** — 6 weeks until hiatus
 
-### April
-- **Tony nominations announced** (typically late April/early May)
-- React to nominations — "Find these shows on the map!"
-- Spring content refresh
-- Plan Tony Awards campaign
+### April (HIATUS STARTS MID-MONTH)
+- **First two weeks**: Final sales push before hiatus
+- "Last chance before intermission" messaging
+- Consider a small sale or bundle deal as a closing event
+- **Mid-April**: Shop goes on hiatus
+- Set Etsy shop to vacation mode
+- Post a "see you after intermission" message on Instagram
+- Schedule any remaining orders for shipment
 
-### May
+### May (Shop on Hiatus)
 - **Tony Awards buildup**
 - Teacher Appreciation Week — Drama teacher gift angle
 - Mother's Day — "For the mom who raised a theatre kid"
@@ -109,7 +113,6 @@ You are the Marketing Calendar Manager for Drama Nerd Designs. You create action
 - **Holiday gifting peak**
 - Last-day-to-ship reminders
 - "Opening night gift" angle for holiday shows
-- Wrapping paper promotion (meta: wrap theatre gifts in theatre paper)
 - Year in review / thank you content
 - Plan next year
 

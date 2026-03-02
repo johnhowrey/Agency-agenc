@@ -108,7 +108,7 @@ THE PERFECT GIFT FOR:
 - Yourself (you deserve it)
 
 SHIPPING:
-Ships from Savannah, GA within 1-2 weeks. Arrives rolled in a
+Ships from Palm Springs, CA within 1-2 weeks. Arrives rolled in a
 protective tube for safe delivery.
 ```
 
@@ -161,7 +161,7 @@ PERFECT FOR:
 - Anyone who could use a little theatrical wisdom
 
 SHIPPING:
-Ships from Savannah, GA within 1-2 weeks.
+Ships from Palm Springs, CA within 1-2 weeks.
 ```
 
 **Tags (13):**
@@ -170,6 +170,55 @@ broadway oracle cards, musical theatre gift, broadway card deck,
 theatre lover gift, oracle cards, broadway fan gift, theatre nerd,
 musical theatre cards, cast gift idea, drama teacher gift, broadway
 game, theatre party, opening night gift
+```
+
+### Example Listing — The Broadway Map Mug
+
+**Title:**
+```
+Broadway Musical History Mug - 15oz Theatre Coffee Mug - Musical Theatre Gift - Broadway Lover Mug
+```
+
+**Description:**
+```
+Start your morning with the entire history of Broadway in your hands.
+
+This 15oz mug features the Broadway Musical History Subway Map —
+the same beloved design that's been delighting theatre nerds since
+2008. Each "subway line" is a different director, choreographer,
+composer, or lyricist, and they meet at the shows they worked on
+together.
+
+WHAT YOU GET:
+- 15oz ceramic mug (slightly bigger than standard — you'll love it)
+- Full Broadway Musical History Subway Map design
+- Vibrant, dishwasher-safe print
+- Packaged securely for safe shipping
+
+WHY YOU NEED IT:
+Your morning coffee just got a lot more interesting. Trace Bob
+Fosse's career while you sip. Find the surprising connections
+between Golden Age classics and modern hits. Every morning is
+a new discovery.
+
+Pairs perfectly with a tote bag for the complete Broadway nerd kit.
+
+PERFECT FOR:
+- The theatre lover who starts every day with a cast recording
+- Birthday and holiday gifts
+- Drama teacher appreciation gifts
+- Treating yourself (you deserve it)
+
+SHIPPING:
+Ships from Palm Springs, CA within 1-2 weeks. Packaged securely.
+```
+
+**Tags (13):**
+```
+broadway mug, musical theatre gift, theatre coffee mug, broadway gift,
+theatre lover mug, musical theatre mug, drama teacher gift, broadway
+coffee cup, theatre nerd gift, broadway lover gift, cast gift idea,
+theatre mug, broadway fan mug
 ```
 
 ## Etsy SEO Best Practices
@@ -195,10 +244,10 @@ game, theatre party, opening night gift
 
 > "Optimize my existing tote bag listing for better Etsy SEO. Here's the current description: [paste]"
 
-> "Write 13 Etsy tags for the vintage wrapping paper."
+> "Write 13 Etsy tags for the Broadway Map Mug."
 
-> "Create a holiday gift guide collection description for my website."
+> "Create a gift guide collection description for tote bags, Oracle cards, and the map mug."
 
-> "I'm launching a new Sondheim-themed mug. Write the listing from scratch."
+> "Write a bundle listing for a tote bag + Oracle cards combo."
 
 > "What keywords should I target for the Broadway Oracle on both Etsy and Google?"

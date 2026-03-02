@@ -37,33 +37,26 @@ The DramaNerdDesigns Etsy shop has 300+ five-star reviews and an established URL
 - [ ] Enable Etsy Payments if not already active
 - [ ] Review and update auto-reply for messages
 
+## Important: Hiatus Timeline
+
+**The shop will go on hiatus in mid-April 2026.** This means every day counts. The relaunch strategy is designed to maximize sales in a compressed window (now through mid-April), not build slowly over months.
+
 ## Phase 2: Launch Order
 
-Don't list everything at once. Stagger over the first week to get multiple bumps in Etsy's algorithm (new listings get a temporary boost).
+Don't list everything at once. Stagger over the first few days to get multiple bumps in Etsy's algorithm (new listings get a temporary boost).
 
-### Day 1: The Flagship
-- **Broadway Musical History Subway Map** (both sizes)
-- This is the most recognizable, most reviewed product — lead with strength
+### Day 1: The Proven Seller
+- **Tote Bags** (all three sizes: Tiny, Regular, XL)
+- Strongest review history (300+ five-star reviews), broadest appeal, highest price point
 
 ### Day 2: The Newcomer
 - **The Broadway Oracle Cards**
 - Fresh product creates buzz and gives returning customers something new
 
-### Day 3: The Everyday Carry
-- **Tote Bags** (all sizes)
-- Proven seller with great reviews, broader appeal
-
-### Day 4: The Specialist
-- **The Sondheim Line Mug** + other mugs
-- Niche appeal but strong favorites count
-
-### Day 5: The Seasonal
-- **Vintage Wrapping Paper**
-- Time this closer to a gifting season if possible
-
-### Ongoing
-- List any additional products as they're ready
-- Each new listing = another algorithm boost
+### Day 3: The Daily Driver
+- **The Broadway Map Mug** (15oz)
+- Great add-on purchase, pairs naturally with the tote bags
+- Creates a bundle opportunity immediately
 
 ## Phase 3: Launch Week Activities
 
@@ -97,7 +90,7 @@ Don't list everything at once. Stagger over the first week to get multiple bumps
 ### Week 3
 - Optimize underperforming listings (new photos, adjusted titles/tags)
 - Experiment with Etsy Ads on top-performing listing ($1-5/day budget)
-- Create a bundle listing (Map + Oracle Cards)
+- Create a bundle listing (Tote Bag + Oracle Cards, or Tote Bag + Mug)
 - Cross-promote on other channels
 
 ### Week 4
@@ -142,9 +135,8 @@ We're back! After a little intermission, Drama Nerd Designs is open
 again with updated designs, new products, and the same obsessive love
 for musical theatre that started it all in 2008.
 
-Browse the updated Broadway Musical History Subway Map, pull a card from
-The Broadway Oracle, or find the perfect gift for the theatre nerd in
-your life.
+Grab a tote bag, pull a card from The Broadway Oracle, or find the
+perfect gift for the theatre nerd in your life.
 
 Thanks for being here. The second act is always better.
 ```

@@ -98,7 +98,7 @@ Stories keep you visible to existing followers. Use them daily:
 - **Drama teachers on Instagram**: Partner for classroom giveaways
 - **Theatre podcast hosts**: Offer products as giveaway prizes
 - **Broadway fan accounts**: Cross-promotion, guest Stories
-- **Local Savannah theatre community**: Support local shows, get local love
+- **Local Palm Springs theatre community**: Support local shows, get local love
 
 ### Hashtag Strategy
 Use 15-20 hashtags per post, mixed by size:
@@ -117,7 +117,7 @@ Rotate hashtag sets to avoid appearing spammy. Create 3-4 saved sets.
 - "I designed my first subway map in 2008. Here's how it's evolved." (carousel)
 - "5 Broadway collaborations you didn't know about" (carousel)
 - "Why I use 'theatre' not 'theater'" (conversation starter)
-- "The story behind the Sondheim Line"
+- "The story behind the subway map mug"
 - Customer review highlights with product photos
 - "Things theatre nerds understand" (relatable list)
 
@@ -129,12 +129,12 @@ Rotate hashtag sets to avoid appearing spammy. Create 3-4 saved sets.
 - World Theatre Day (March 27)
 - Back to school — drama teacher content
 - Holiday gift guides
-- "Wrap your gifts in Broadway" — wrapping paper promo
+- Last-chance-before-hiatus promotion
 
 ### Interactive
 - "Finish this lyric..." (in comments)
 - "Rate my Broadway hot take" (Stories polls)
-- "Tag someone who needs this poster on their wall"
+- "Tag someone who needs this tote bag in their life"
 - "What show should I add to the map next?"
 - "Pull a Broadway Oracle card — what did you get?"
 - "Theatre nerd bingo" (Stories)
@@ -142,7 +142,7 @@ Rotate hashtag sets to avoid appearing spammy. Create 3-4 saved sets.
 ## Growth Hacks (Ethical)
 
 1. **Post when your audience is active** — Check Instagram Insights. Theatre people tend to be active in evenings and on weekends.
-2. **Use location tags** — Tag "Broadway, New York" or "Savannah, GA" for local discovery.
+2. **Use location tags** — Tag "Broadway, New York" or "Palm Springs, CA" for local discovery.
 3. **Geotag theatre venues** — When attending shows, tag the venue.
 4. **Engage before and after posting** — Spend 10 minutes engaging with others before you post, and 15 minutes after. This signals to the algorithm.
 5. **Save and share signals** — Create content people want to save (trivia, facts) and share (tags, relatable content). These are the strongest algorithm signals.
