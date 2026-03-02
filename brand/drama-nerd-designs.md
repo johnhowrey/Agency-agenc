@@ -127,7 +127,7 @@
 |---------|-----|--------|
 | Website | dramanerddesigns.com | Active |
 | TikTok | @dramanerddesigns (or @dramanerd) | Launching — primary discovery channel |
-| Etsy | etsy.com/shop/DramaNerdDesigns | Inactive (contacting support) |
+| Etsy | TBD (new shop) | Old shop unrecoverable — opening a new Etsy store |
 | Instagram | @dramanerddesigns | Active (57 followers, 13 posts) |
 | Society6 | society6.com (puzzles) | Active |
 | BWAYX | market.bwayx.com | Active |
@@ -135,21 +135,28 @@
 | Shopify | TBD | Under consideration as owned storefront |
 | Wholesale | Via website | Available |
 
-## Etsy Shop History (When Active)
+## Etsy Shop History
 
+### Old Shop (DramaNerdDesigns — No Longer Active)
 - **Rating**: 5 out of 5 stars
-- **Reviews**: 300+ across products
-- **Shipping**: Free on most items
+- **Reviews**: 300+ across products (CSV export available — use for social proof)
+- **Status**: Unrecoverable. The reviews, listing history, and shop URL are gone from the platform.
+
+### New Shop (Opening March 2026)
+- **Name**: TBD — as close to DramaNerdDesigns as possible
+- **Starting from**: Zero reviews, zero listing history
+- **Advantage**: Etsy gives new shops a temporary search visibility boost
+- **Strategy**: Use social media audience to drive first sales and reviews. Quote old reviews as social proof.
+- **Shipping**: Free on most items (baked into price)
 - **Prep time**: 1-2 weeks
 - **Ships from**: Palm Springs, CA
-- **Response time**: Usually within 24 hours
 
 ## Competitive Advantages
 
 1. **Originality** — The subway map is genuinely one-of-a-kind. The Oracle deck has no real competitor.
 2. **Design quality** — Created by a professional design leader, not a hobbyist with Canva
 3. **Deep knowledge** — The products reflect real theatre expertise, not surface-level fandom
-4. **Track record** — 300+ five-star reviews, products since 2008
+4. **Track record** — 300+ five-star reviews from previous shop (CSV available), products since 2008
 5. **Niche passion** — Theatre nerds recognize and support fellow theatre nerds
 6. **Comeback narrative** — A relaunch story is compelling and relatable
 
@@ -171,4 +178,4 @@
 - Map-specific site: musicaltheatrehistory.com
 - Professional portfolio: johnhowrey.com
 - Existing product photography on website and Etsy
-- Established Etsy shop URL with review history
+- CSV export of 300+ five-star reviews from previous Etsy shop (social proof asset)

@@ -8,7 +8,7 @@
 
 - **Repository**: `johnhowrey/Agency-agenc`
 - **Brand**: Drama Nerd Designs (dramanerddesigns.com)
-- **Status**: Active through mid-April 2026, then hiatus — agents, playbooks, and shop automation ready for use
+- **Status**: Active through mid-April 2026, then hiatus. New Etsy shop being created (old shop unrecoverable). See `playbooks/action-plan.md` for the master timeline.
 
 ## Repository Structure
 
@@ -26,7 +26,8 @@ Agency-agenc/
 │   ├── marketing-calendar.md          # Content calendars, campaigns, seasonal planning
 │   └── email-marketing.md             # Newsletters, launch sequences, list building
 ├── playbooks/
-│   ├── etsy-relaunch.md               # Step-by-step Etsy shop relaunch guide
+│   ├── action-plan.md                 # MASTER TIMELINE — 6-week action plan (start here)
+│   ├── etsy-relaunch.md               # Etsy shop launch/relaunch guide
 │   ├── instagram-growth.md            # Instagram growth strategy (57 → 2,000+)
 │   ├── tiktok-growth.md               # TikTok launch strategy and growth playbook
 │   ├── tiktok-content-bank.md         # Ready-to-shoot video scripts and concepts
