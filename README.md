@@ -77,6 +77,26 @@ All agents reference `brand/drama-nerd-designs.md` — the comprehensive brand d
 
 > **Note**: Shop goes on hiatus mid-April 2026. Other products (subway map poster, wrapping paper, Sondheim mug) are in the catalog but not the current focus.
 
+## Shop Automation
+
+The `automation/` directory contains Python scripts that automate Etsy shop operations:
+
+```bash
+# Start watching for new orders (sends email + generates packing slips)
+python -m automation.order_monitor
+
+# Create a listing from pre-written copy
+python -m automation.listing_manager create tote-regular
+
+# Generate a packing slip for a specific order
+python -m automation.packing_slip <receipt_id>
+
+# Test email notifications
+python -m automation.notify
+```
+
+See [`automation/README.md`](automation/README.md) for full setup instructions.
+
 ## Channels
 
 | Channel | URL | Status |

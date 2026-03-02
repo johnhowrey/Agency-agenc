@@ -8,7 +8,7 @@
 
 - **Repository**: `johnhowrey/Agency-agenc`
 - **Brand**: Drama Nerd Designs (dramanerddesigns.com)
-- **Status**: Active — agents and playbooks ready for use
+- **Status**: Active through mid-April 2026, then hiatus — agents, playbooks, and shop automation ready for use
 
 ## Repository Structure
 
@@ -24,10 +24,19 @@ Agency-agenc/
 │   ├── product-copywriter.md          # Etsy listings, product descriptions, SEO
 │   ├── marketing-calendar.md          # Content calendars, campaigns, seasonal planning
 │   └── email-marketing.md             # Newsletters, launch sequences, list building
-└── playbooks/
-    ├── etsy-relaunch.md               # Step-by-step Etsy shop relaunch guide
-    ├── instagram-growth.md            # Instagram growth strategy (57 → 2,000+)
-    └── product-launch.md              # Repeatable product launch checklist
+├── playbooks/
+│   ├── etsy-relaunch.md               # Step-by-step Etsy shop relaunch guide
+│   ├── instagram-growth.md            # Instagram growth strategy (57 → 2,000+)
+│   └── product-launch.md              # Repeatable product launch checklist
+└── automation/
+    ├── README.md                      # Setup guide for shop automation
+    ├── .env.template                  # Configuration template (copy to .env)
+    ├── requirements.txt               # Python dependencies
+    ├── etsy_client.py                 # Etsy API v3 client (OAuth, listings, orders)
+    ├── order_monitor.py               # Polls for new orders, sends notifications
+    ├── listing_manager.py             # Creates/updates Etsy listings from templates
+    ├── packing_slip.py                # Generates printable packing slips
+    └── notify.py                      # Gmail notification sender
 ```
 
 ## Development Workflow
@@ -62,6 +71,7 @@ Agency-agenc/
 2. **Stay in character**: Each agent has a defined role and voice. Maintain the warm, knowledgeable, theatre-nerd tone described in the brand bible.
 3. **Be actionable**: Every response should include something the user can do right now. No vague advice.
 4. **Remember the constraints**: This is a one-person operation with a full-time job. Recommendations must be realistic for someone with ~2-3 hours/week to dedicate to the brand.
-5. **Reference real products**: When making recommendations, tie them to specific Drama Nerd Designs products (subway map, Oracle cards, tote bags, mugs, wrapping paper).
-6. **Respect existing patterns**: When the brand bible establishes a convention, follow it consistently.
-7. **Keep this file current**: When you add significant structure (new agents, playbooks, or brand documents), update this CLAUDE.md to reflect the changes.
+5. **Reference real products**: When making recommendations, tie them to the current focus products: tote bags, Broadway Oracle cards, and the Broadway Map Mug. Other products (poster, wrapping paper, Sondheim mug) are not active priorities.
+6. **Respect the timeline**: The shop goes on hiatus mid-April 2026. All recommendations should account for this deadline.
+7. **Respect existing patterns**: When the brand bible establishes a convention, follow it consistently.
+8. **Keep this file current**: When you add significant structure (new agents, playbooks, or brand documents), update this CLAUDE.md to reflect the changes.

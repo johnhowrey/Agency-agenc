@@ -1,0 +1,13 @@
+# Secrets
+.env
+automation/.env
+automation/tokens.json
+automation/seen_orders.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Output files
+automation/output/
