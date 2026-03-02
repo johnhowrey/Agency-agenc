@@ -127,7 +127,7 @@
 |---------|-----|--------|
 | Website | dramanerddesigns.com | Active |
 | TikTok | @dramanerddesigns (or @dramanerd) | Launching — primary discovery channel |
-| Etsy | TBD (new shop) | Old shop unrecoverable — opening a new Etsy store |
+| Etsy | etsy.com/shop/dramanerddesign | New shop (old shop unrecoverable) |
 | Instagram | @dramanerddesigns | Active (57 followers, 13 posts) |
 | Society6 | society6.com (puzzles) | Active |
 | BWAYX | market.bwayx.com | Active |
@@ -143,7 +143,7 @@
 - **Status**: Unrecoverable. The reviews, listing history, and shop URL are gone from the platform.
 
 ### New Shop (Opening March 2026)
-- **Name**: TBD — as close to DramaNerdDesigns as possible
+- **Name**: dramanerddesign (etsy.com/shop/dramanerddesign)
 - **Starting from**: Zero reviews, zero listing history
 - **Advantage**: Etsy gives new shops a temporary search visibility boost
 - **Strategy**: Use social media audience to drive first sales and reviews. Quote old reviews as social proof.

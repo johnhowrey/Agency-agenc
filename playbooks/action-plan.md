@@ -80,7 +80,7 @@ Starting fresh on Etsy, but you're not starting from nothing:
 
 ### New Etsy Shop Registration (Day 1)
 
-- [ ] **Register the new shop** — Secure a name as close to DramaNerdDesigns as possible
+- [x] **Shop registered**: dramanerddesign (etsy.com/shop/dramanerddesign)
 - [ ] **Set up the basics**: Profile, shop icon, banner
 - [ ] **Don't list products yet** — Get the shop created so it exists, but hold listings for Week 3
 
