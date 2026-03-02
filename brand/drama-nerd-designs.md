@@ -126,10 +126,13 @@
 | Channel | URL | Status |
 |---------|-----|--------|
 | Website | dramanerddesigns.com | Active |
-| Etsy | etsy.com/shop/DramaNerdDesigns | Inactive (relaunch planned) |
+| TikTok | @dramanerddesigns (or @dramanerd) | Launching — primary discovery channel |
+| Etsy | etsy.com/shop/DramaNerdDesigns | Inactive (contacting support) |
 | Instagram | @dramanerddesigns | Active (57 followers, 13 posts) |
 | Society6 | society6.com (puzzles) | Active |
 | BWAYX | market.bwayx.com | Active |
+| TikTok Shop | Via TikTok | Planned — apply at seller-us.tiktok.com |
+| Shopify | TBD | Under consideration as owned storefront |
 | Wholesale | Via website | Available |
 
 ## Etsy Shop History (When Active)

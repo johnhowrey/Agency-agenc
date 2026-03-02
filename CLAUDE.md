@@ -21,12 +21,15 @@ Agency-agenc/
 ├── agents/
 │   ├── brand-strategist.md            # Strategy, positioning, relaunch planning
 │   ├── social-media.md                # Instagram content, captions, hashtags
+│   ├── tiktok-content.md              # TikTok videos, scripts, trends, TikTok Shop
 │   ├── product-copywriter.md          # Etsy listings, product descriptions, SEO
 │   ├── marketing-calendar.md          # Content calendars, campaigns, seasonal planning
 │   └── email-marketing.md             # Newsletters, launch sequences, list building
 ├── playbooks/
 │   ├── etsy-relaunch.md               # Step-by-step Etsy shop relaunch guide
 │   ├── instagram-growth.md            # Instagram growth strategy (57 → 2,000+)
+│   ├── tiktok-growth.md               # TikTok launch strategy and growth playbook
+│   ├── tiktok-content-bank.md         # Ready-to-shoot video scripts and concepts
 │   └── product-launch.md              # Repeatable product launch checklist
 └── automation/
     ├── README.md                      # Setup guide for shop automation
