@@ -271,7 +271,7 @@ Every review on the new shop makes the post-hiatus return stronger:
 
 ### Also This Week
 
-- [ ] **TikTok Shop**: Apply if you haven't — could be live before hiatus
+- [ ] **TikTok Shop**: Apply if you haven't — see [TikTok Shop Playbook](tiktok-shop.md) for full setup
 - [ ] **Email list**: If you've built any following, start capturing emails for the return
 - [ ] **Evaluate**: Is momentum strong enough to push the hiatus date? If sales are rolling in, consider extending a week or two.
 
@@ -367,7 +367,7 @@ You come back from hiatus with: a functioning Etsy shop (with reviews), an audie
 | Question | When to Decide | Options |
 |----------|---------------|---------|
 | Shopify as backup/complement? | Week 3-4 | Etsy only / Add Shopify / Both |
-| TikTok Shop? | Week 2-3 | Apply early / Wait for momentum |
+| TikTok Shop? | **Week 1 — Apply NOW** | See [TikTok Shop Playbook](tiktok-shop.md) |
 | Email list? | Week 3+ | Mailchimp free tier / Squarespace built-in |
 | Extend past mid-April? | Week 5 | Stick to hiatus / Extend if sales are strong |
 | Content during hiatus? | Week 6 | Go silent / 1-2 posts/week / Pre-schedule |
@@ -381,6 +381,7 @@ This action plan is the **master timeline**. These resources support it:
 - **[Etsy Relaunch Playbook](etsy-relaunch.md)** — Listing optimization, SEO, launch sequence details
 - **[Instagram Growth Playbook](instagram-growth.md)** — Detailed Instagram strategy, hashtag sets, content ideas
 - **[TikTok Growth Playbook](tiktok-growth.md)** — Algorithm tips, series ideas, production workflow
+- **[TikTok Shop Playbook](tiktok-shop.md)** — Selling on TikTok Shop: registration, POD fulfillment, fees, shoppable videos
 - **[TikTok Content Bank](tiktok-content-bank.md)** — Ready-to-shoot video scripts and concepts
 - **[Product Launch Playbook](product-launch.md)** — Product launch checklists and templates
 - **Social Media Agent** — Generate captions, hashtag sets, and content ideas on demand

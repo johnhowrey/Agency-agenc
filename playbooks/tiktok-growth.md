@@ -11,8 +11,9 @@
 
 ## Current State
 
-- **Account**: To be created (@dramanerddesigns or @dramanerd)
+- **Account**: To be created (@dramanerddesigns)
 - **Followers**: 0
+- **TikTok Shop**: Application pending — see [TikTok Shop Playbook](tiktok-shop.md) for full selling setup
 - **Content**: Existing video library + design assets ready to be repurposed
 - **Advantage**: Professional design skills, deep subject expertise, existing product line
 
@@ -32,10 +33,9 @@
 - [ ] Category: Art & Design or Shopping
 
 ### Apply for TikTok Shop
-- [ ] Go to seller-us.tiktok.com and apply
-- [ ] Requirements: US business, valid ID, product photos
-- [ ] Add products: tote bags (3 sizes), Broadway Oracle cards, map mug
-- [ ] Set up shipping profiles and return policies
+- [ ] Go to seller-us.tiktok.com and apply (Individual Seller — no business license needed)
+- [ ] Requirements: US ID (driver's license or passport), US bank account, product photos
+- [ ] See the full [TikTok Shop Playbook](tiktok-shop.md) for product setup, POD fulfillment, and pricing
 - [ ] Processing time: Usually 1-3 business days for approval
 
 ## Phase 2: First 10 Videos (Week 1)

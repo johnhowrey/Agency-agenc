@@ -30,6 +30,7 @@ Agency-agenc/
 │   ├── etsy-relaunch.md               # Etsy shop launch/relaunch guide
 │   ├── instagram-growth.md            # Instagram growth strategy (57 → 2,000+)
 │   ├── tiktok-growth.md               # TikTok launch strategy and growth playbook
+│   ├── tiktok-shop.md                 # TikTok Shop selling: registration, POD, fees, shoppable videos
 │   ├── tiktok-content-bank.md         # Ready-to-shoot video scripts and concepts
 │   └── product-launch.md              # Repeatable product launch checklist
 └── automation/
