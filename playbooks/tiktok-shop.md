@@ -173,8 +173,8 @@ Not yet. Get your own content flowing and first sales in. Consider affiliates on
 
 | Fee | Amount | Notes |
 |-----|--------|-------|
-| **Referral fee (commission)** | 6% of sale price | All-in: includes payment processing |
-| **New seller promo** | 3% for first 30 days | Starts within 48 hours of first sale |
+| **Referral fee (commission)** | 6-8% of sale price | All-in: includes payment processing. Was 6% in 2025; some categories now 8% in 2026 — verify at signup |
+| **New seller promo** | 3% for first 30 days | Starts within 48 hours of first sale (must sell within 60 days of onboarding) |
 | **Signup** | Free | No monthly fees |
 | **Affiliate commissions** | 8-20% (you set it) | Optional, only if you use the affiliate program |
 | **Refund admin fee** | 20% of original referral fee | Capped at $5/SKU, only on returns |
